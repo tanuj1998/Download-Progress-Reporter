@@ -1,7 +1,8 @@
 # Download Progress Reporter
 
-# Library Used
-  . Android PDF Viewer 
+# Library used to view PDF
+  Android PDF Viewer 
+  https://github.com/barteksc/AndroidPdfViewer
   
 # Usage
 1. Download the zip folder and unzip all the files.
