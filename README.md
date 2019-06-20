@@ -6,4 +6,4 @@
 3. Run the app.
 
 # Screenshots
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of MainActivity](Screen Shot 2019-06-19 at 7.56.24 PM)
