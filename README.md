@@ -6,4 +6,4 @@
 3. Run the app.
 
 # Screenshots
-![Image of MainActivity](<img width="276" alt="Main" src="https://user-images.githubusercontent.com/24483619/59815422-614e8e80-92cd-11e9-8355-eaf6e30fb086.png">)
+![Image of MainActivity](https://user-images.githubusercontent.com/24483619/59815422-614e8e80-92cd-11e9-8355-eaf6e30fb086.png)
