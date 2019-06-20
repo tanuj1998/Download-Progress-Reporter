@@ -5,3 +5,5 @@
 2. Open the folder in android studio and make sure the project sync is complete.
 3. Run the app.
 
+# Screenshots
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
