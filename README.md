@@ -6,4 +6,4 @@
 3. Run the app.
 
 # Screenshots
-![Image of MainActivity](Screen Shot 2019-06-19 at 7.56.24 PM)
+![Image of MainActivity](https://drive.google.com/file/d/1O5qQCwRRRFdykp50h0wgBco4h5Qmcoay/view?usp=sharing)
